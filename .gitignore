@@ -33,6 +33,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -69,8 +70,6 @@ mono_crash.*
 # Builds
 *.apk
 *.aab
-*.unitypackage
-*.unitypackage.meta
 *.app
 
 # Crashlytics generated file
